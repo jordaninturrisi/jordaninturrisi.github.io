@@ -10,7 +10,8 @@ meta_author: Inturrisi Jordan
 port: 4000
 safe: true
 server: true
-highlighter: true
+# highlighter: true
+highlighter: rouge
 #  Deprecation: Auto-regeneration can no longer be set from your configuration file(s). Use the --[no-]watch/-w command-line option instead.
 # auto: true
 
