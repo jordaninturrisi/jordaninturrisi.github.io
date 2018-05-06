@@ -1,0 +1,74 @@
+# Site settings
+title: Jordan Inturrisi
+email: jordan.inturrisi@gmail.com
+url: https://jordaninturrisi.github.io
+description: "Personal Site for Jordan Inturrisi"
+keywords: "Machine Learning, Deep Learning, Artificial Intelligence, Data Science, Research, Electrical Engineering, Electronics Engineering"
+skills: "Machine Learning | Electrical Engineering | Electronics Engineering"
+meta_author: Inturrisi Jordan
+
+port: 4000
+safe: true
+server: true
+highlighter: true
+#  Deprecation: Auto-regeneration can no longer be set from your configuration file(s). Use the --[no-]watch/-w command-line option instead.
+# auto: true
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 364c63 #80B3FF, 18bc9c
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Jordan Inturrisi
+  location: Location
+  social: Social
+  credits: About
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/jordaninturrisi
+  - title: linkedin
+    url: https://linkedin.com/in/jordaninturrisi
+  - title: twitter
+    url: https://twitter.com/JordanInturrisi
+  - title: envelope
+    url: mailto:jordan.inturrisi@gmail.com
+  # - title: instagram
+  #   url: https://instagram.com/jordan_inturrisi/
+  # - title: reddit
+  #   url: https://reddit.com/user/jinturri
+  # - title: terminal
+  #   url: https://kaggle.com/jordaninturrisi
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Melbourne, VIC
+  - line: Australia
+
+# Credits content
+credits: 'Jordan is a postgraduate student in Deep Learning & Electrical Engineering at Deakin University.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
