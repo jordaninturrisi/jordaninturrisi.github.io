@@ -3,7 +3,8 @@ title: Computer Vision
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: computer-vision.png
+img: computer-vision.webp
+img-onerror: computer-vision.png
 alt: computer-vision
 project-date:
 client:

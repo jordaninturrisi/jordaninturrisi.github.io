@@ -3,7 +3,8 @@ title: Project Work
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: worker.png
+img: worker.webp
+img-onerror: worker.png
 alt: projects
 project-date:
 client:

@@ -3,7 +3,8 @@ title: AFL Brownlow Medal Predictor
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: brownlow.png
+img: brownlow.webp
+img-onerror: brownlow.png
 alt: Brownlow
 project-date:
 client:

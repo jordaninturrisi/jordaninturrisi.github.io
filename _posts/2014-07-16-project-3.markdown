@@ -3,7 +3,8 @@ title: Forecasting electricity consumption
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: forecasting.png
+img: forecasting.webp
+img-onerror: forecasting.png
 alt: Forecasting
 project-date:
 client:

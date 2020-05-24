@@ -84,7 +84,7 @@ header {
     text-align: center;
     color: #fff;
     /* background: #{{ site.color.primary }}; */
-    background: url('img/background.png');
+    background: url('img/background.webp'), url('img/background.png');
 }
 
 header .container {
